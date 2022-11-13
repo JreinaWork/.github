@@ -1,11 +1,4 @@
 # Justin Reina
 
-I like to build, and share
+I like to build, and share - [Jreina Wiki](https://github.com/justinmreina/.github/wiki)
 
-# Reference
-
-$ Template
-
-# Demo
-
-- [Bluetooth Char R/W](www.google.com)
